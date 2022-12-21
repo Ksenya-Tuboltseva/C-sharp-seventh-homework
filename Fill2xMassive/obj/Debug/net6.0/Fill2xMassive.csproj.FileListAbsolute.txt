@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\bin\Debug\net6.0\Fill2xMassive.exe
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\bin\Debug\net6.0\Fill2xMassive.deps.json
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\bin\Debug\net6.0\Fill2xMassive.runtimeconfig.json
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\bin\Debug\net6.0\Fill2xMassive.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\bin\Debug\net6.0\Fill2xMassive.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\refint\Fill2xMassive.dll
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.pdb
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\Fill2xMassive.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GeekBrains\C#\seventh homework\Fill2xMassive\obj\Debug\net6.0\ref\Fill2xMassive.dll
