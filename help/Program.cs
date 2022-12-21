@@ -1,12 +1,6 @@
-﻿int [,] table = new int[10,15];
-
-for (int i = 0; i < table.GetLength(0); i++) //заполнение массива трехзначными числами
-{
-    for (int j = 0; j < table.GetLength(1); j++)
-    {
-        table [i,j] = new Random().Next(100, 1000);
-    }
-}
+﻿int [,] table = new int [3,4] {{100, 404, 504, 225}, 
+                               {550, 478, 800, 363}, 
+                               {505, 101, 410, 479}};
 
 double average = 0.0; //среднее арифметическое
 int sum = 0; //сумма палиндромов в столбце
@@ -25,7 +19,7 @@ for (int j = 0; j < table.GetLength(1); j++)
             sum = sum + table[i,j];
         }
     }
-    if (count > 0) {average = sum / count;} //проверка деления на 0
+    if (count > 0) {average = sum / count;}
     else {average = 0;}
     Console.WriteLine(average);
 }    
