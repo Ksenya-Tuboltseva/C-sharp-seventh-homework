@@ -3,14 +3,12 @@
                                {505, 101, 410, 479}};
 
 double average = 0.0; //среднее арифметическое
-int sum = 0; //сумма палиндромов в столбце
-int count = 0; //счетчик палиндромов в столбце
 double [] arrayWithAverages = new double [table.GetLength(1)]; //массив для сред.арифметических
 
 for (int j = 0; j < table.GetLength(1); j++)
 {
-    sum = 0;
-    count = 0;
+    int sum = 0; //сумма палиндромов в столбце
+    int count = 0; //счетчик палиндромов в столбце
     for (int i = 0; i < table.GetLength(0); i++)
     {
         if (table [i,j] / 100 == table [i,j] % 10)
@@ -19,7 +17,7 @@ for (int j = 0; j < table.GetLength(1); j++)
             sum = sum + table[i,j];
         }
     }
-    if (count > 0) {average = sum / count;}
+    if (count > 0) {average = (double) sum / count;}
     else {average = 0;}
     arrayWithAverages[j] = average; //запись значения в массив
 }    
